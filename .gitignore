@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignote datasets
+data/
+dataset/
+datasets/
+checkpoints/
+  
 # C extensions
 *.so
 
